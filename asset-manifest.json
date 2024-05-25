@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78bb2bab.css",
+    "main.js": "/static/js/main.ba83c347.js",
+    "static/media/zako6.ogg": "/static/media/zako6.aba179e574719a3f4a55.ogg",
+    "static/media/zako8.ogg": "/static/media/zako8.8e4a37bb4779efb0b28a.ogg",
+    "static/media/zako10.ogg": "/static/media/zako10.ba6bb8abad6ca04ba861.ogg",
+    "static/media/zako5.ogg": "/static/media/zako5.1fac836c44626232ff44.ogg",
+    "static/media/zako12.ogg": "/static/media/zako12.20e0bbf1fdcd73ef7216.ogg",
+    "static/media/zako.ogg": "/static/media/zako.ca5e4d9556e7ee880add.ogg",
+    "static/media/zako9.ogg": "/static/media/zako9.528ef999fbc9a51830f2.ogg",
+    "static/media/zako3.ogg": "/static/media/zako3.22b43b9f3d44fbf756c4.ogg",
+    "static/media/zako11.ogg": "/static/media/zako11.9825854966aa82a748ca.ogg",
+    "static/media/zako2.ogg": "/static/media/zako2.71d9479ca84e6d3c02f8.ogg",
+    "static/media/zako7.ogg": "/static/media/zako7.eac04cab9b182c555a93.ogg",
+    "static/media/zako4.ogg": "/static/media/zako4.14a7c2b6f84c98326f2e.ogg",
+    "index.html": "/index.html",
+    "main.78bb2bab.css.map": "/static/css/main.78bb2bab.css.map",
+    "main.ba83c347.js.map": "/static/js/main.ba83c347.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78bb2bab.css",
+    "static/js/main.ba83c347.js"
+  ]
+}
